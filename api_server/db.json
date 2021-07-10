@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is a nice stream",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "Here's some other stream",
+      "id": 2
+    },
+    {
+      "title": "I did not created this stream",
+      "description": "This was made by me",
+      "id": 3
+    },
+    {
+      "title": "I created this stream",
+      "description": "This stream is about refactoring!!!",
+      "id": 4
+    },
+    {
+      "title": "Interactive Streaming",
+      "description": "Let's stream together.",
+      "userId": "111805210606034482865",
+      "id": 6
+    }
+  ]
+}
